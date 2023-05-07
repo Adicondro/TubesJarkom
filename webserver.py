@@ -1,3 +1,7 @@
+# Anggota Kelompok
+# Muhammad Fatih Yumna L. L. - 1301213389
+# R. Adicondro Yusuf Hendratmo - 1301213152
+
 import socket
 import os
 
